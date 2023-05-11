@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 3000,
+        "apiBasePath": "/api"
+    },
+    "crawler": {
+        "depth": 2,
+        "minDepth": 2,
+        "maxDepth": 5
+    }
+}
